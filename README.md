@@ -1,15 +1,16 @@
-Olá, eu sou o Odilon Santos! 
+<h1 align="center">Hi , I'm Odilon Santos</h1>
+<h3 align="center">Economista (UFPA), entusiasta de dados e fintechs</h3>
 
-Sou estudante de Economia (UFPA) e entusiasta de análise de dados com Python.
+- 🌱 I’m currently learning **Salesforce, engenharia de dados e Power BI**
 
+- 💬 Ask me about **SQL, Python, automação, Excel/Power BI, análise de dados**
 
--  Análise de dados e automação (Python)
--  Interesse em finanças públicas e investimentos (RPPS)
--  Construindo o **Actuaris**: copiloto de decisão para comitês de investimento de RPPS
+- 📫 How to reach me **dillonsantos23@gmail.com**
 
-Tecnologias
-- Python • Pandas • Jupyter
-- SQL (básico) • Git/GitHub
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/odilon-santos-679859304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odilon-santos-679859304" height="30" width="40" /></a>
+</p>
 
-Contato
-- LinkedIn: [odilon-santos-679859304](https://www.linkedin.com/in/odilon-santos-679859304)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
