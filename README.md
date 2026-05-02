@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou o Odilon Santos! 
 
-<!--
-**dillonsantos23-ui/dillonsantos23-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Economia (UFPA) e entusiasta de análise de dados com Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Análise de dados e automação (Python)
+-  Interesse em finanças públicas e investimentos (RPPS)
+-  Construindo o **Actuaris**: copiloto de decisão para comitês de investimento de RPPS
+
+Tecnologias
+- Python • Pandas • Jupyter
+- SQL (básico) • Git/GitHub
+
+Contato
+- LinkedIn: [odilon-santos-679859304](https://www.linkedin.com/in/odilon-santos-679859304)
